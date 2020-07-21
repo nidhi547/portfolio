@@ -1,0 +1,38 @@
+div{
+    background-color: black;
+  
+
+}
+h4{
+    color: white;
+    text-align: center;
+    padding-top: 90px;
+    font-weight: 100px;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+}
+
+.desc{
+    width:500px;
+     height:500px;
+     margin-left: 500px;;
+}
+
+.seconddivision{
+   padding-left: 30px;
+    width: 100%;
+}
+
+
+img{
+    height: 600px;
+    width: 450px;
+}
+.caption{
+    color: white;
+}

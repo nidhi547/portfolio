@@ -1,0 +1,35 @@
+div{
+    
+    background-color: black;
+}
+p{
+    color: white;
+}
+img{
+    height: 200px;
+
+}
+
+.imgo{
+    height: 500px;
+    background-color: black;
+    padding-top:150px;
+
+}
+.about{
+    padding-top: 20px;
+}
+
+.bottom-container{
+    background-color: black;
+ 
+    padding: 50px 0 20px 600px;
+  }
+  .copyright{
+    color: #EAF6F6;
+  }
+
+  .middle{
+      color: white;
+      padding-left: 30px;
+  }

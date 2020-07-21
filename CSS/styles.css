@@ -1,0 +1,44 @@
+
+
+
+.myimg {
+  background-image: url("npi.jpg");
+  background-color: black;
+  background-position: center;
+
+  height: 800px;
+  padding-top: 40px;
+
+  background-repeat: no-repeat;
+
+ 
+ }
+ h1{
+   font-size: 180px;
+   text-align: center;
+   font-weight: bold;
+  
+  padding-top: 300px;
+  color:white;
+  
+  font-family: 'Montserrat', sans-serif;
+  
+ }
+
+ p{
+   margin-left:630px;
+  
+   font-family: 'Playfair Display', serif;
+   font-size:25px;
+   color: white;
+ }
+
+
+ .buto{
+   margin-top: 0px;;
+   margin-left: 800px;
+   
+ }
+ 
+
+

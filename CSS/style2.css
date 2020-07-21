@@ -1,0 +1,31 @@
+div{
+    background-color: black;
+    
+    
+}
+.desc{
+    width: 500px;
+    height: 400px;
+    margin-left: 450px;
+    padding-top: 150px;;
+}
+h3{
+    color: white;
+}
+p{
+    color:#dfd3c3;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+}
+
+
+.for{
+margin-top: 0px;
+width: 500px;
+height: 500px;
+margin-left: 450px;
+}
+.clr{
+    color:#e7dfd5;
+}
+
